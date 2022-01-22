@@ -1,7 +1,14 @@
-
 # marketing_case_study
 `PANDAS` `NUMPY` `SEABORN` `SKLEARN`
-> Data Scientist Life Cycle
+> Practice EDA
+
+## Data Science Life Cycle?
+1. Toolkits.
+2. Raw Data.
+3. Data Exploration `Understanding the data`.
+4. Data Pre-Processing.
+5. Model Building & Training for `prediction`.
+6. Model Evaluation.
 
 ## Meain Headers:
 * Statistics Concepts.

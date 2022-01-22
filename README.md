@@ -1,6 +1,11 @@
-# customers_case_study
-`PANDAS` `NUMPY` `SEABORN`
+
+# marketing_case_study
+`PANDAS` `NUMPY` `SEABORN` `SKLEARN`
 > Data Scientist Life Cycle
+
+## Meain Headers:
+* Descriptive Concepts.
+* Mathematical Models.
 
 ## References
 1. Tutorial: https://www.youtube.com/watch?v=xk8A09Wo9Qs

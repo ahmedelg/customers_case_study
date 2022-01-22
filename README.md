@@ -1,6 +1,7 @@
+
 # marketing_case_study
 `PANDAS` `NUMPY` `SEABORN` `SKLEARN`
-> Practice EDA
+> Data Scientist Life Cycle
 
 ## Meain Headers:
 * Descriptive Concepts.

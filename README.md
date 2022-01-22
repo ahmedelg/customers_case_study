@@ -1,6 +1,6 @@
 # marketing_case_study
-`PANDAS` `NUMPY`
-> Practice EDA
+`PANDAS` `NUMPY` `SEABORN`
+> Data Scientist Life Cycle
 
 ## References
 1. Tutorial: https://www.youtube.com/watch?v=xk8A09Wo9Qs

@@ -1,4 +1,4 @@
-# marketing_case_study
+# customers_case_study
 `PANDAS` `NUMPY` `SEABORN`
 > Data Scientist Life Cycle
 

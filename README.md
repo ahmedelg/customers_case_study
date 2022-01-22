@@ -4,7 +4,7 @@
 > Data Scientist Life Cycle
 
 ## Meain Headers:
-* Descriptive Concepts.
+* Statistics Concepts.
 * Mathematical Models.
 
 ## References

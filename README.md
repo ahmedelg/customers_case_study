@@ -1,7 +1,5 @@
 # marketing_case_study
 `PANDAS` `NUMPY` `SEABORN` `SKLEARN`
-> Practice EDA
-
 ## Data Science Life Cycle?
 1. Toolkits.
 2. Raw Data.
